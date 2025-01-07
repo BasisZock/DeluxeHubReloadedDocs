@@ -10,15 +10,16 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.strafbefehl.dev',
+  url: 'https://strafbefehl.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Strafbefehl', // Usually your GitHub org/user name.
-  projectName: 'DeluxeHubReloaded', // Usually your repo name.
+  organizationName: 'strafbefehl.github.io', // Usually your GitHub org/user name.
+  projectName: 'strafbefehl', // Usually your repo name.
+  trailingSlash: false,
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
