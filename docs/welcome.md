@@ -5,6 +5,11 @@ sidebar_position: 1
 # DeluxeHubReloaded Wiki (WIP)
 <h3 class="subtitle-gray">Welcome to the official wiki of DeluxeHubReloaded!</h3>
 
+:::warning
+
+There are some important news! Check out [here](/important)
+
+:::
 
 ## Links
 Spigot: https://www.spigotmc.org/resources/deluxehubreloaded-3-professional-hub-management.118904/

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# IMPORTANT READ ME
+# ⚠️ IMPORTANT READ ME ⚠️
 <h3 class="subtitle-gray">This is important news to DeluxeHubReloaded!</h3>
 if you need help join our [discord](https://discord.gg/uQkg8ZeHzK)
 
