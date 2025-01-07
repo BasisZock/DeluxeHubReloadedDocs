@@ -5,7 +5,7 @@ const Home: React.FC = () => {
     const history = useHistory();
 
     useEffect(() => {
-        history.push('/welcome');
+        history.push('/DeluxeHubReloadedDocs/welcome');
     }, [history]);
 
     return null;
