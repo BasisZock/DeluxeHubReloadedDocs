@@ -41,7 +41,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Strafbefehl/DeluxeHubReloadedDocs/tree/main/docs/',
+            'https://github.com/Strafbefehl/DeluxeHubReloadedDocs/tree/main/',
           routeBasePath: '/'
         },
         theme: {
