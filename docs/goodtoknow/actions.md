@@ -115,16 +115,9 @@ Closes an open inventory the player has open. There is no arguments for this act
 **Syntax:** `[CLOSE]`
 **Example:** `[CLOSE]`
 
-#### Player BungeeCord Send
+#### Player Proxy Send
 
-Send the player to a specficied BungeeCord server on your network
-
-**Syntax:** `[BUNGEE] <server>`
-**Example:** `[BUNGEE] factions`
-
-#### Player Velocity Send
-
-Send the player to a specficied BungeeCord server on your network
+Send the player to a specficied  subserver on your network
 
 **Syntax:** `[PROXY] <server>`
 **Example:** `[PROXY] factions`
