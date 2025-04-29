@@ -38,10 +38,10 @@ Click on these actions to find out more information and examples on how to use t
 * [CLOSE] - [Player Inventory Close](link to sub topic)
 
 
-* [BUNGEE] - [Player BungeeCord Send](link to sub topic)
+* [BUNGEE] - [Player Velocity/BungeeCord Send](link to sub topic) -- Don't use this it will be removed
 
 
-* [PROXY] - [Player Velocity Send](link to sub topic)
+* [PROXY] - [Player Velocity/Bungeecord Send](link to sub topic)
 
 
 * [COMMAND] - [Player Command Execute](link to sub topic)
