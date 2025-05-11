@@ -2,7 +2,31 @@
 sidebar_position: 2
 ---
 
-# How is the world protection handled?
+# The new world protection system
+
+In the latest version of DeluxeHubReloaded, we have introduced a new world protection system that makes world protection
+easier. We disabled world modification in any way when you are not in build mode (/buildmode)
+
+| **command** | **permission**                     | **command**                        |
+|-------------|------------------------------------|------------------------------------|
+| /buildmode  | deluxehub.command.buildmode        | switch in build mode               |
+| /buildmode  | deluxehub.command.buildmode.others | switch other players in build mode |
+
+if you want to use the old world protection system you can do it in the config.yml:
+
+```yml
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+# | LEGACY SYSTEMS                           |
+# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
+
+legacySystems:
+  # Should we use the new lobby permission system?
+  # If this is disabled build, destroy, interact, pvp, pickup and drop will be only possible in the build mode instead all the time as a admin
+  # If this is enabled, the old system will be used (permission based https://strafbefehl.github.io/DeluxeHubReloadedDocs/goodtoknow/worldprotection)
+  permissionsEnabled: false # Set this to true to use the old system
+```
+
+# How is the world protection handled? (Legacy)
 
 you can use `deluxehub.item.* | deluxehub.player.* | deluxehub.block.*` To obtain the authority of all world event
 management categories.
