@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # What's the commands?
 
-use `deluxehub.*` to get all permissions in deluxehubreloaded
+Use `deluxehub.*` to get all permissions in deluxehubreloaded
 
 ### global commands
 
